@@ -56,7 +56,7 @@
 
     <!--<logger name="com.ibatis.sqlmap.engine.impl.SqlMapClientDelegate" level="DEBUG" >-->
         <!--<appender-ref ref="console"/>-->
-    <!--</logger>-->
+    <!--</logger>-->  
 
     <!--<logger name="java.sql.Connection" level="DEBUG">-->
         <!--<appender-ref ref="console"/>-->
