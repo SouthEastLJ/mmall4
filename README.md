@@ -1,1 +1,1 @@
-mall just like TaoBao
+java web project
